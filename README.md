@@ -4,7 +4,7 @@ FreeChat
 
 # アプリケーション概要
 
-誰とでも会話をリアルタイムな表示で出来るチャットアプリ
+誰とでもリアルタイムな会話が出来るシンプルなチャットアプリです。
 
 # URL
 
@@ -28,13 +28,19 @@ https://free-chat-37146.herokuapp.com/
 
 # アプリケーションを作成した背景
 
-テックキャンプのカリキュラムのChatAppというチャットアプリで、相手の投稿内容がページを更新しないと表示されないという課題があり、更新無しでリアルタイムで投稿内容がお互いに表示されるチャットアプリが作りたいと思い開発することにした。
+テックキャンプのカリキュラムのChatAppというチャットアプリで、相手の投稿内容がページを更新しないと表示されないという課題があり、更新無しでリアルタイムで投稿内容がお互いに表示されるチャットアプリが作りたいと思い開発することにしました。
 
 # 洗い出した要件
 
 [要件定義シート](https://docs.google.com/spreadsheets/d/1bkiH4GMnacMiWhnU9ZZuSz-AZgrPljJljB8mhwrSMJA/edit?usp=sharing)
 
 # 実装した機能についての画像やGIFおよびその説明
+[新規登録ページ][![Image from Gyazo](https://i.gyazo.com/3aebfdeac4c7db8fb18ee1f8b8c30b1f.png)](https://gyazo.com/3aebfdeac4c7db8fb18ee1f8b8c30b1f)
+[ログインページ][![Image from Gyazo](https://i.gyazo.com/85694b37505aca4a3763f053abb1cc0f.png)](https://gyazo.com/85694b37505aca4a3763f053abb1cc0f)
+[チャットルームページ][![Image from Gyazo](https://i.gyazo.com/d66c945d29e9df04c3bc81760e437e17.png)](https://gyazo.com/d66c945d29e9df04c3bc81760e437e17)
+[アカウント編集ページ][![Image from Gyazo](https://i.gyazo.com/975f4ffaa300d1b496f314dc9b6c796b.png)](https://gyazo.com/975f4ffaa300d1b496f314dc9b6c796b)
+[パスワード再設定ページ][![Image from Gyazo](https://i.gyazo.com/99e97b437bf96faca61f5afd28e3e6b6.png)](https://gyazo.com/99e97b437bf96faca61f5afd28e3e6b6)
+[工夫ポイント「無限スクロール機能」][![Image from Gyazo](https://i.gyazo.com/a3308a8c3a17811abb80a6ea95125136.gif)](https://gyazo.com/a3308a8c3a17811abb80a6ea95125136)
 
 # 実装予定の機能
 
@@ -50,7 +56,7 @@ https://free-chat-37146.herokuapp.com/
 
 # 開発環境
 
-- ruby
+- ruby2.6.5
 - Javascript
 - Visual Studio Code
 - Heroku
