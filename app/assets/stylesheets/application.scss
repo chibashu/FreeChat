@@ -1,3 +1,21 @@
+// ログイン画面
+
+.login-container {
+  @extend .container-fluid;
+  max-width: 576px;
+  padding: 2rem;
+}
+
+// 「ログインしました」などのフラッシュ用スタイル
+
+.alert-notice {
+  @extend .alert-info;
+}
+
+.alert-alert {
+  @extend .alert-danger;
+}
+
 // メッセージ一覧
 #message-container {
   max-width: 768px;
