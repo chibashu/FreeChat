@@ -42,17 +42,18 @@ https://free-chat-37146.herokuapp.com/
 
 # データベース設計
 
-![](2022-04-21-11-31-13.png)
+[![Image from Gyazo](https://i.gyazo.com/ab707f9b509244d69c3c6a329ccb354b.png)](https://gyazo.com/ab707f9b509244d69c3c6a329ccb354b)
 
 # 画面遷移図
 
-![](2022-04-21-11-31-52.png)
+[![Image from Gyazo](https://i.gyazo.com/0eb9989227cefde18f4bd1682d2ba3ef.png)](https://gyazo.com/0eb9989227cefde18f4bd1682d2ba3ef)
 
 # 開発環境
 
 - ruby
 - Javascript
 - Visual Studio Code
+- Heroku
 - GitHub
 
 # ローカルでの動作方法
