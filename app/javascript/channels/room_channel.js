@@ -74,7 +74,7 @@ document.addEventListener('turbolinks:load', () => {
 
   const changeLineCheck = () => {
     // 現在の入力行数を取得(ただし、最大の行数は maxLineCount とする)
-    maxLineCount = Math.min(getLineCount(), maxLineCount)
+    newLineCount = Math.min(getLineCount(), maxLineCount)
     // 以前の入力行数と異なる場合は変更する
     if (lineCount !== newLineCount) {
       changeLineCount(newLineCount)
