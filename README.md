@@ -4,7 +4,7 @@ FreeChat
 
 # アプリケーション概要
 
-誰とでもリアルタイムな会話が出来るシンプルなチャットアプリです。
+誰でも参加でき、リアルタイムな会話ができるシンプルなチャットアプリです。
 
 # URL
 
@@ -37,14 +37,16 @@ https://free-chat-37146.herokuapp.com/
 # 実装した機能についての画像やGIFおよびその説明
 [新規登録ページ][![Image from Gyazo](https://i.gyazo.com/3aebfdeac4c7db8fb18ee1f8b8c30b1f.png)](https://gyazo.com/3aebfdeac4c7db8fb18ee1f8b8c30b1f)
 [ログインページ][![Image from Gyazo](https://i.gyazo.com/85694b37505aca4a3763f053abb1cc0f.png)](https://gyazo.com/85694b37505aca4a3763f053abb1cc0f)
-[チャットルームページ][![Image from Gyazo](https://i.gyazo.com/d66c945d29e9df04c3bc81760e437e17.png)](https://gyazo.com/d66c945d29e9df04c3bc81760e437e17)
+[チャットルームページ]<a href="https://gyazo.com/d155833f9b6eff4da67937075580c16a"><img src="https://i.gyazo.com/d155833f9b6eff4da67937075580c16a.gif" alt="Image from Gyazo" width="1000"/></a>
 [アカウント編集ページ][![Image from Gyazo](https://i.gyazo.com/975f4ffaa300d1b496f314dc9b6c796b.png)](https://gyazo.com/975f4ffaa300d1b496f314dc9b6c796b)
 [パスワード再設定ページ][![Image from Gyazo](https://i.gyazo.com/99e97b437bf96faca61f5afd28e3e6b6.png)](https://gyazo.com/99e97b437bf96faca61f5afd28e3e6b6)
 [工夫ポイント「無限スクロール機能」][![Image from Gyazo](https://i.gyazo.com/a3308a8c3a17811abb80a6ea95125136.gif)](https://gyazo.com/a3308a8c3a17811abb80a6ea95125136)
 
 # 実装予定の機能
 
-今後はユーザーのフォロー/フォロワー機能の実装や相互フォローしているユーザーで新しくチャットルームを作成できる機能を実装予定です。
+- ユーザーのフォロー/フォロワー機能
+- 相互フォローしているユーザーで新しくチャットルームを作成できる機能
+- スマートフォンのサイズにも対応
 
 # データベース設計
 
@@ -72,4 +74,4 @@ https://free-chat-37146.herokuapp.com/
 
 # 工夫したポイント
 
-このアプリは同一のチャットルームでメッセージのやりとりを行うのでメッセージ数が多くなります。そこで無限スクロール機能でメッセージ数が増えても最新の100件だけ表示され、それより古いメッセージは更新したら50件ずつ表示されるように工夫しました。
+ページ更新無しでリアルタイムで投稿内容がお互いに表示されるようにしました。また、このアプリは同一のチャットルームでメッセージのやりとりを行うのでメッセージ数が多くなります。そこで無限スクロール機能でメッセージ数が増えても最新の100件だけ表示され、それより古いメッセージは更新したら50件ずつ表示されるように工夫しました。
