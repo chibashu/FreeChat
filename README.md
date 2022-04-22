@@ -36,15 +36,15 @@ https://free-chat-37146.herokuapp.com/
 
 # 実装した機能についての画像やGIFおよびその説明
 
-[新規登録ページ][![Image from Gyazo](https://i.gyazo.com/3aebfdeac4c7db8fb18ee1f8b8c30b1f.png)](https://gyazo.com/3aebfdeac4c7db8fb18ee1f8b8c30b1f)
+[新規登録ページ][![Image from Gyazo](https://i.gyazo.com/97982843d73f4f274b10c4d62454231f.png)](https://gyazo.com/97982843d73f4f274b10c4d62454231f)
 
-[ログインページ]
+[ログインページ][![Image from Gyazo](https://i.gyazo.com/57118be1cd6bc8d97e6c094e6415d4d5.png)](https://gyazo.com/57118be1cd6bc8d97e6c094e6415d4d5)
 
 [チャットルームページ]<a href="https://gyazo.com/d155833f9b6eff4da67937075580c16a"><img src="https://i.gyazo.com/d155833f9b6eff4da67937075580c16a.gif" alt="Image from Gyazo" width="1000"/></a>
 
-[アカウント編集ページ][![Image from Gyazo](https://i.gyazo.com/975f4ffaa300d1b496f314dc9b6c796b.png)](https://gyazo.com/975f4ffaa300d1b496f314dc9b6c796b)
+[アカウント編集ページ][![Image from Gyazo](https://i.gyazo.com/006ff40ca8f4315d89fec345260409c3.png)](https://gyazo.com/006ff40ca8f4315d89fec345260409c3)
 
-[工夫ポイント「無限スクロール機能」][![Image from Gyazo](https://i.gyazo.com/a3308a8c3a17811abb80a6ea95125136.gif)](https://gyazo.com/a3308a8c3a17811abb80a6ea95125136)
+[工夫ポイント「無限スクロール機能」][![Image from Gyazo](https://i.gyazo.com/5f9ac36a01483f998d047e00cfaf220d.gif)](https://gyazo.com/5f9ac36a01483f998d047e00cfaf220d)
 
 # 実装予定の機能
 
